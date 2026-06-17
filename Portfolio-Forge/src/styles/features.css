@@ -1,0 +1,60 @@
+.features{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 80px;
+}
+
+.features-title {
+  color: #aa3bff;
+  font-size: 3rem;
+  font-weight: 600;
+  font-family: 'Poppins'; 
+  margin-bottom: 40px;     
+}
+
+.features-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr); 
+  gap: 30px;                          
+  width: 100%;
+  max-width: 1200px;            
+  padding: 20px;
+}
+
+
+.features-grid div {
+
+  background: rgba(255, 255, 255, 0.04); 
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  border-radius: 16px; 
+  padding: 30px 25px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  transition: all 0.3s ease-in-out;
+  cursor: pointer;
+}
+
+.features-grid div:hover {
+  transform: scale(1.05);
+  background-color: rgba(255, 255, 255, 0.08);
+  box-shadow: 0 0 20px rgba(170, 59, 255, 0.4);
+  
+}
+
+.features-grid div h2{
+    color: #94a3b8;
+    font-size: 1.5rem;
+    font-weight: 600;
+    margin-bottom: 10px;
+}
+
+.features-grid div p{
+    color: #64748b;
+    font-size: 1rem;
+    font-weight: 400;
+}

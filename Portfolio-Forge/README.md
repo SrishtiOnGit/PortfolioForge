@@ -36,8 +36,8 @@ I have used React Router for Routing purpose.
 
 I tried my best to present this Readme, it was my another attempt to write a readme by my own.
 
-## Thank You So Much For Giving Your Precious Time To Us!!
-
 ## Review:
 
 For any kind of review you can mail me at 'srishti.pixelmind@gmail.com' OR 'srishti.school2010@gmail.com'.
+
+## Thank You So Much For Giving Your Precious Time To Us!!

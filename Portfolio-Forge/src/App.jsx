@@ -1,6 +1,6 @@
 import './App.css'
 import Navbar from './components/Navbar'
-import { Route, Routes } from 'react-router-dom';
+import { Route, Routes, Router } from 'react-router-dom';
 import About from './components/About';
 import Features from './components/Features';
 import Hero from './components/hero';
@@ -31,6 +31,7 @@ return (
 function App() {
 
     return (
+      <Router>
       <Routes>
         <Route path="/" element={<HomePage />} />
         <Route path="/About" element={<About />} />
@@ -38,6 +39,7 @@ function App() {
         <Route path="/faq" element={<FAQ />} />
         <Route path='/dashboard' element={<Dashboard />} />
       </Routes>
+      </Router>
 
     )
   }

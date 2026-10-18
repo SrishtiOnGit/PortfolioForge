@@ -2,10 +2,6 @@
 
 A website which helps people get their portfolio in minutes without writing a single line of code or any designing tool.
 
-## Own Story :
-
-My Dad is a corporate person who updates his portfolio every year but whenever he wants to update due to lack of coding and designing skills, he gets to HR to have a crisp portfolio. In my outreach there are many people who gets to the HR. I noticed this and using my frontend skill, I created this app for my people who actually can design by their own.
-
 ## Tech Stack:
 
 1. React
@@ -38,6 +34,6 @@ I tried my best to present this Readme, it was my another attempt to write a rea
 
 ## Review:
 
-For any kind of review you can mail me at 'srishti.pixelmind@gmail.com' OR 'srishti.school2010@gmail.com'.
+For any kind of review you can mail me at 'srishtisrivastava3008@gmail.com' OR 'srishti.school2010@gmail.com'.
 
 ## Thank You So Much For Giving Your Precious Time To Us!!
